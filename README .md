@@ -24,8 +24,7 @@ the [Chat app CSS illustration challenge on Frontend Mentor](https://www.fronten
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://faran61.github.io/Frontend-Mentor/)
 
 ## My process
 
